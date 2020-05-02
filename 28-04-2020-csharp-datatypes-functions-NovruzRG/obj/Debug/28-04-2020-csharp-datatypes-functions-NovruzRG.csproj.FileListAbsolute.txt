@@ -1,0 +1,6 @@
+C:\Users\MrUnknown\source\repos\28-04-2020-csharp-datatypes-functions-NovruzRG\28-04-2020-csharp-datatypes-functions-NovruzRG\bin\Debug\28-04-2020-csharp-datatypes-functions-NovruzRG.exe.config
+C:\Users\MrUnknown\source\repos\28-04-2020-csharp-datatypes-functions-NovruzRG\28-04-2020-csharp-datatypes-functions-NovruzRG\bin\Debug\28-04-2020-csharp-datatypes-functions-NovruzRG.exe
+C:\Users\MrUnknown\source\repos\28-04-2020-csharp-datatypes-functions-NovruzRG\28-04-2020-csharp-datatypes-functions-NovruzRG\bin\Debug\28-04-2020-csharp-datatypes-functions-NovruzRG.pdb
+C:\Users\MrUnknown\source\repos\28-04-2020-csharp-datatypes-functions-NovruzRG\28-04-2020-csharp-datatypes-functions-NovruzRG\obj\Debug\28-04-2020-csharp-datatypes-functions-NovruzRG.csprojAssemblyReference.cache
+C:\Users\MrUnknown\source\repos\28-04-2020-csharp-datatypes-functions-NovruzRG\28-04-2020-csharp-datatypes-functions-NovruzRG\obj\Debug\28-04-2020-csharp-datatypes-functions-NovruzRG.exe
+C:\Users\MrUnknown\source\repos\28-04-2020-csharp-datatypes-functions-NovruzRG\28-04-2020-csharp-datatypes-functions-NovruzRG\obj\Debug\28-04-2020-csharp-datatypes-functions-NovruzRG.pdb
